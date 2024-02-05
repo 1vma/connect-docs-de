@@ -73,6 +73,6 @@ Im Zuge der Aktivierung des Stammdaten Use Cases, können Sie folgende Einstellu
 
 | Name                                 | Beschreibung                                                                                                                                                                                                                        | Optionen         |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| System für Auswahl von Interessenten | <p>Wenn die Auswahl von Interessenten im ERP geschieht, werden  alle Interessenten von EverReal zum ERP synchronosiert.<br>Wenn die Auswahl in EverReal stattfindet, werden nur die ausgewählten Mieter zum ERP synchronisiert.</p> | `ERP`, `Partner` |
+| System für Auswahl von Interessenten | <p>Wenn die Auswahl von Mietern im ERP geschieht, werden  alle Interessenten von EverReal zum ERP synchronosiert.<br>Wenn die Auswahl in EverReal stattfindet, wir nur der ausgewählte Mieter zum ERP synchronisiert.</p> | `ERP`, `Partner` |
 
 Detaillierte Einstellungen für den Export von Leerstanden werden direkt im ERP vorgenommen.
